@@ -1,7 +1,7 @@
 sudo: required
 
 language: c
- os:
+os:
    - linux
 
 compiler:
