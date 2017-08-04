@@ -1,4 +1,4 @@
 language: c
 compiler: gcc
-script: gcc -o test.c -g -lm 
+script: make
 os: linux
