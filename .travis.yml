@@ -1,5 +1,3 @@
-sudo: required
-install: make get-deps
 language: c
 os:
    - linux
