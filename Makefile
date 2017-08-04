@@ -1,2 +1,2 @@
 test: test.c
-  gcc -o test.c -g -lm
+  gcc -o test -g -lm
