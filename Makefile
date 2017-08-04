@@ -1,1 +1,2 @@
-gcc -o test.c
+main:
+gcc -o test.c -g -lm
